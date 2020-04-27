@@ -1,0 +1,67 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.2.11f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.2.11f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=12733 outsize=3019 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3083 outsize=3655 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4541 outsize=6568 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=65748 outsize=6471 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4631 outsize=2783 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2783 outsize=4100 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=24259 outsize=13384 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11889 outsize=22640 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Tensor.cginc(128): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=14 insize=28420 outsize=3590 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=28420 outsize=3059 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=28420 outsize=2808 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=28420 outsize=3395 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=28420 outsize=2791 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3683 outsize=4677 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4876 outsize=6964 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3659 outsize=4524 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3084 outsize=3278 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=21203 outsize=1801 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=21203 outsize=1782 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=21203 outsize=2114 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=21203 outsize=2401 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=21203 outsize=2382 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=21203 outsize=2225 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1955 outsize=2047 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1906 outsize=2015 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2178 outsize=2402 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2466 outsize=3029 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2362 outsize=2998 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2331 outsize=2837 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2313 outsize=2801 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2633 outsize=3353 ok=1
+
+Quitting shader compiler process
